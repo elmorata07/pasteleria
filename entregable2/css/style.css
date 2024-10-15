@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: ada;
+}
+body{
+	font-family: ada;
+    background-image: linear-gradient(135deg, #624e88 0%, #a594f9 100%);
+    background-size: cover;
+
+}
+:root{
+    --primary_color:#624E88;
+    --secondary_color:#A594F9;
+    --tercer_color:#EDE8DC;
+    --cuarto_color: #181C14;
+
+}
+@font-face {
+    font-family: ada;
+    src: url(../fonts/Concert_One/ConcertOne-Regular.ttf);
+}
+.img_logo{
+	max-width: 70px;
+	max-height: 70px;
+
+}
+
+.myButton{
+    background-color: var(--tercer_color);
+    border: none;
+    font-size: 1rem;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 40px;
+    color: var(--primary_color);
+    transition: all 0.3s ease-in-out;
+
+}
+
+.myButton:hover{
+    background-color: var(--secondary_color);
+    color:var(--tercer_color) ;
+    cursor: pointer;
+}
+
+.miTitulo {
+    color: var(--tercer_color);
+    font-family:ada2;
+    src: url(../fonts/Playpen_Sans/PlaypenSans-VariableFont_wght.ttf);
+    font-size: 4rem;
+}
+p{
+    color: var(--tercer_color); 
+    font-family:ada3;
+    src: url(../fonts/Playwrite_DE_Grund/PlaywriteDEGrund-VariableFont_wght.ttf);
+    font-size: 1.2rem;
+}
