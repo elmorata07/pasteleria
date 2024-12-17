@@ -1,0 +1,52 @@
+#area{
+    position: relative;
+    
+}
+.contenedor{
+    position: relative;
+    margin-left: 230px;
+    width: auto;
+    height: 90vh;
+    background-color: white;
+    
+}
+.title{
+    margin-bottom: 2%;
+    padding-top: 6%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.cards{
+    display: flex;
+    padding: 0 6% 6% 6%;
+}
+.card1 {
+    
+    border-radius: 20px;
+    padding: 20px;
+    margin-right: 10px;
+    background-color: rgb(197, 177, 215);
+}
+
+.card2 {
+    
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 10px;
+    background-color: rgb(197, 177, 215);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn{
+    align-items: end;
+    background-color: blueviolet;
+    border-radius: 20px;
+    width: 120px;
+}
+button{
+    background-color: blueviolet; 
+    border: none;
+}

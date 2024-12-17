@@ -1,0 +1,74 @@
+#area{
+    position: relative;
+}
+.contenedor{
+    position: relative;
+    margin-left: 230px;
+    width: auto;
+    height: 90vh;
+    background-color: white;
+}
+.container{
+    padding: 2% 8% 0 8%;
+}
+.title2{
+    margin-top: 35px;
+}
+h2{
+    text-align: center;
+    padding-top: 25px;
+}
+h4{
+    margin-top: 40px;
+    font-size: medium;
+}
+
+#form{
+    border: 1px dashed blueviolet;
+    padding: 25px;
+}
+#botones{
+    width: 100%;
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;  
+}
+#btn1{
+    margin-right: 8px;
+}
+#btn2{
+    margin-left: 8px;
+}
+button{
+    border: none;
+    border-style: none;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: white;
+    width: 130px;
+    height: auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+label{
+    margin-top: 5px;
+}
+input {
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+select{
+    border-radius: 20px;
+}
+#formulario-der{
+    margin-top: 40px;
+}
+.checkbox{
+    display: flex;
+    margin-left: 15px;
+}
+.form-group.form-check{
+    margin-right: 40px;
+}

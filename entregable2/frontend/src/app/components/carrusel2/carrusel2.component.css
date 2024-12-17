@@ -1,0 +1,28 @@
+.container{
+    margin-top: 5%;
+}
+h1{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;   
+    width: 100%;
+}
+.btn1{
+    border-color: blueviolet;
+    background-color: none;
+    border-radius: 15px;
+    width: 100px;
+}
+.btn2{
+    background-color: blueviolet;
+    border-color: blueviolet;
+    border-radius: 15px;
+    margin-left: 20px;
+    width: 100px;
+}
+

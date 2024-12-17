@@ -1,0 +1,29 @@
+.menuSuperior{
+    width: 100%;
+    height: 60px;
+    background-color: #ebebeb;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+.title{
+    width: 200px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+h1{
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: xx-large; 
+}
+.tools{
+    width: calc( 100% - 200px);
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+}
+.dropdown-toggle{
+    border: none;
+    background-color: #ebebeb;
+}

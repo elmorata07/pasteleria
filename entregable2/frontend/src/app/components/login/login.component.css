@@ -1,0 +1,50 @@
+#area{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+}
+#formulario{
+    margin-top: 2%;
+}
+h1{
+    text-align: center; 
+    margin-top: 10px;
+}
+h3{
+    text-align: center; 
+    margin-bottom: 5%;
+}
+#id{
+    width: 25%;
+    height: 50%;
+    border: 3px black;
+}
+.logo{
+    display: flexbox;
+}
+img{
+    margin-left: 63px;
+    width: 135px;
+    height: auto;
+}
+.form{
+    padding: 25px;
+    border: 1px solid grey;
+    border-radius: 15px;
+}
+a{
+    color: black;
+    text-decoration-line: underline;
+    font-size: smaller;
+}
+button{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}

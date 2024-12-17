@@ -1,0 +1,44 @@
+#area{
+    position: relative;
+}
+.contenedor{
+    position: relative;
+    margin-left: 230px;
+    width: auto;
+    height: 90vh;
+    background-color: white;
+}
+.container{
+    padding: 2% 8% 0 8%;
+}
+h2{
+    text-align: center;
+    padding-top: 25px;
+}
+#form{
+    border: 1px dashed blueviolet;
+    padding: 25px;
+}
+#botones{
+    margin-top: 8%;
+
+}
+#btn1{
+    display: flex;
+    justify-content: end;
+}
+button{
+    border: none;
+    border-style: none;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: white;
+    width: 130px;
+    height: auto;
+}
+input {
+    border-radius: 20px;
+}
+select{
+    border-radius: 20px;
+}

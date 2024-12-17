@@ -1,0 +1,11 @@
+.bg-light{
+    background-color: black !important;
+}
+a{
+    color: blueviolet !important;
+}
+a:hover{
+    cursor: pointer;
+    margin-top: 3px;
+    color: white !important;
+}

@@ -1,0 +1,21 @@
+.container{
+    margin-top: 5%;
+}
+.title{
+    margin-bottom: 5%;
+}
+img{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+#cuadroTexto{
+    padding-top: 45px;
+}

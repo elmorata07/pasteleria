@@ -1,0 +1,7 @@
+#carrusel{
+    height: 15%;
+}
+#carrusel img{
+    height: 480px;
+    opacity: 0.8;
+}

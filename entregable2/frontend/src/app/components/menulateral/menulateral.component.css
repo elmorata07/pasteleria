@@ -1,0 +1,32 @@
+.menuLateral{
+    position: absolute;
+    margin: 0;
+    width: 17%;
+    height: 90vh;
+    background-color: #ebebeb;
+}
+.opciones{
+    padding-top: 20px;
+}
+h6{
+    color: rgb(199, 194, 194);
+    font-size: smaller;
+}
+ul{
+    margin-left: 0;
+    text-decoration: none;
+    list-style: none;
+}
+li{
+    margin-bottom: 10px;
+}
+a{
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: blueviolet;
+}
+a:active{
+    color: blueviolet;
+}
